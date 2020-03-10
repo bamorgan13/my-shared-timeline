@@ -1,6 +1,6 @@
-{ 
-  "name": "Mars",
-  "populations": { 
-    "humans": 0 
-  }
-}
+let mars = {
+	name: 'Mars',
+	populations: {
+		humans: 0
+	}
+};
